@@ -1,0 +1,13 @@
+{
+    "name":"Kshitij",
+    "score": 11.75,
+    "is_admin" : true,
+    "Cgpa":60,
+    "license":null,
+    "shop":["food","clothes","sunflower oil"] ,
+    "myObj" :{
+        "name": "Manish" ,
+        "marks":70
+    }
+
+}
